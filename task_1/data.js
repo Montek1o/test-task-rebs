@@ -19,7 +19,7 @@ export const encoded = [
     formatSize: null,
     ca: null,
     mpmId: null,
-  },
+  }, 
   {
     groupId: 784,
 
@@ -229,7 +229,7 @@ export const encoded = [
     formatSize: "Не применимо",
     ca: null,
     mpmId: null,
-  },
+  }, 
 ];
 
 export const translations = {
